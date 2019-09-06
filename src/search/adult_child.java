@@ -21,6 +21,7 @@ import com.travelsky.ibe.client.pnr.SellSeat;
 
 public class adult_child {
 	public static void main(String[] args){
+		//≤‚ ‘
 		/*try {
 			seat();
 		} catch (Exception e) {
